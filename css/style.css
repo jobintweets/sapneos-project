@@ -1,0 +1,23 @@
+#addbtn{
+    float:right;
+    margin-right: 2px;
+}
+
+.addemp_form label{
+  width:120px;
+    float:left;
+}
+.addemp_form input,.addemp_form select{
+    width:250px;
+    height:30px;
+    border:1px solid #666666;
+    border-radius:3px;
+    padding:1px 1px 1px 3px;
+}
+
+#btnupdate{
+    display:none;
+}
+.dataTables_filter, .dataTables_info {
+    display: none;
+}
